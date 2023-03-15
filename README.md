@@ -1,1 +1,1 @@
-# NN2023_MLP_abalone_age_prediction
+# NN2023_Kretinin_Kudela_tasks
